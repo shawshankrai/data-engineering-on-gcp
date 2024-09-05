@@ -1,4 +1,4 @@
-/deg-venv/
+/default-venv/
 .env
 /google-cloud-sdk/
 google-cloud-cli-400.0.0-darwin-x86_64.tar.gz
