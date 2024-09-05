@@ -1,5 +1,8 @@
-python -m venv default-venv
+## python -m venv default-venv
 
-Ctrl + P 
+## Ctrl + P 
 
-python Intrepreter
+## Select and run command
+### python: select Interpreter
+
+## Create hw.py see env in  lower right corner
